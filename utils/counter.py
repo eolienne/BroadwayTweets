@@ -8,8 +8,6 @@ import datetime
 import json
 import fileinput
 
-#Replace 'foo.json' with the json file that you want to use
-
 CREATED_AT_FMT='%a %b %d %H:%M:%S %z %Y'
 aList = []
 
