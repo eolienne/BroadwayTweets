@@ -28,4 +28,3 @@ date_count=Counter(
 )
 
 print(date_count)
-print(aList)
